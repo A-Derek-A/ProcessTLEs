@@ -1,0 +1,6 @@
+.DS_Store
+data
+__pycache__
+config.yaml
+.vscode
+.idea
